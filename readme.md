@@ -8,11 +8,11 @@ Live Link-    [https://snapia.vercel.app/]
 
 ### Features
 
-- User Authentication: Register, login, and manage user accounts securely.
-- Post Management: Create, view, like, comment, and share posts.
-- Messaging: Send and receive real-time messages with other users.
-- Notifications: Receive notifications for friend requests, likes, comments, and messages.
-- Search and Discovery: Search for users, posts, or hashtags, and explore trending content.
+- **User Authentication:** Register, login, and manage user accounts securely.
+- **Post Management:** Create, view, like, comment, and share posts.
+- **Messaging:** Send and receive real-time messages with other users.
+- **Notifications:** Receive notifications for friend requests, likes, comments, and messages.
+- **Search and Discovery:** Search for users, posts, or hashtags, and explore trending content.
 
 
 ### Technologies Used
